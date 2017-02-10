@@ -1,0 +1,4 @@
+export temp_dir=/tmp/gdyshi
+export config_file_dir=/home/pi/etc/setup/conf
+export sh_file_dir=/home/pi/etc/setup/sh
+export setup_file_dir=/home/pi/tar
